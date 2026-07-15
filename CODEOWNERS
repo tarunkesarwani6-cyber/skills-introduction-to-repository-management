@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tarunkesarwani6-cyber
+/src/backend/database.py      @tarunkesarwani6-cyber
+/src/backend/routers/auth.py  @tarunkesarwani6-cyber
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tarunkesarwani6-cyber
